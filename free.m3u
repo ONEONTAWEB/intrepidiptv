@@ -1,0 +1,43 @@
+#EXTM3U8
+#EXTINF:1, Pac-12 National HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, TBN HD
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:-1, C-SPAN HD
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, CNN HD
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2720.m3u8
+#EXTINF:-1, ESPN HD
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2728.m3u8
+#EXTINF:-1, A&E HD
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2707.m3u8
+#EXTINF:-1, Cartoon Network HD
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/544.m3u8
+#EXTINF:-1, ABC
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2706.m3u8
+#EXTINF:-1, Animal Planet 
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2693.m3u8
+#EXTINF:-1, Discovery Channel
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2687.m3u8
+#EXTINF:-1, Fox 
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2698.m3u8
+#EXTINF:-1, History
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2682.m3u8
+#EXTINF:-1, LifeTime
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2708.m3u8
+#EXTINF:-1, National Geographic
+ http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2680.m3u8
+#EXTINF:-1, TBS 
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2665.m3u8
+#EXTINF:-1, Cinemax
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2689.m3u8
+#EXTINF:-1, Hbo
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2712.m3u8
+#EXTINF:-1, Showtime
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2678.m3u8
+#EXTINF:-1, Music Choice Alt
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/122/media-udyn54561_3208.m3u8
+#EXTINF:-1, Starz
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2672.m3u8
+#EXTINF:-1, USA
+http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2723.m3u8
