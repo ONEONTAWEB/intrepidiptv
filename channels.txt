@@ -1,0 +1,22 @@
+Name= Pac-12 National HD url= http://xrxs.net/video/live-p12netw-4728.m3u8
+Name= TBN HD url= http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+Name= C-SPAN HD url= http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+Name= CNN HD url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2720.m3u8
+Name= ESPN HD url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2728.m3u8
+Name= A&E HD url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2707.m3u8
+Name= Cartoon Network HD url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/544.m3u8
+Name= ABC url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2706.m3u8
+Name= Animal Planet url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2693.m3u8
+Name= Discovery Channel url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2687.m3u8
+Name= Fox url=http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2698.m3u8
+Name= History url=	http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2682.m3u8
+Name= LifeTime url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2708.m3u8
+Name= National Geographic url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2680.m3u8
+Name= TBS url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2665.m3u8
+Name= Cinemax url=  http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2689.m3u8
+Name= Hbo url=http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2712.m3u8
+Name= Showtime url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2678.m3u8
+Name= Music Choice Altv url= https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/122/media-udyn54561_3208.m3u8
+Name= Starz url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2672.m3u8
+Name= USA url= http://blackice.eddiebo.tk:8000/live/UaWc4SlH3t/12345678/2723.m3u8
+
